@@ -1,0 +1,9 @@
+/Users/Esteban/Desktop/MyAirport.Pim/Models.AbstractDefinition/bin/Debug/Models.AbstractDefinition.dll
+/Users/Esteban/Desktop/MyAirport.Pim/Models.AbstractDefinition/bin/Debug/Models.AbstractDefinition.pdb
+/Users/Esteban/Desktop/MyAirport.Pim/Models.AbstractDefinition/bin/Debug/Entities.dll
+/Users/Esteban/Desktop/MyAirport.Pim/Models.AbstractDefinition/bin/Debug/Entities.pdb
+/Users/Esteban/Desktop/MyAirport.Pim/Models.AbstractDefinition/obj/Debug/Models.AbstractDefinition.csprojAssemblyReference.cache
+/Users/Esteban/Desktop/MyAirport.Pim/Models.AbstractDefinition/obj/Debug/Models.AbstractDefinition.csproj.CoreCompileInputs.cache
+/Users/Esteban/Desktop/MyAirport.Pim/Models.AbstractDefinition/obj/Debug/Models.AbstractDefinition.csproj.CopyComplete
+/Users/Esteban/Desktop/MyAirport.Pim/Models.AbstractDefinition/obj/Debug/Models.AbstractDefinition.dll
+/Users/Esteban/Desktop/MyAirport.Pim/Models.AbstractDefinition/obj/Debug/Models.AbstractDefinition.pdb

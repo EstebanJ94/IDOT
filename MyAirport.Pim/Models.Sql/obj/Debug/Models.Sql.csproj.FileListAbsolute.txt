@@ -1,0 +1,11 @@
+/Users/Esteban/Desktop/MyAirport.Pim/Models.Sql/bin/Debug/Models.Sql.dll
+/Users/Esteban/Desktop/MyAirport.Pim/Models.Sql/bin/Debug/Models.Sql.pdb
+/Users/Esteban/Desktop/MyAirport.Pim/Models.Sql/bin/Debug/Entities.dll
+/Users/Esteban/Desktop/MyAirport.Pim/Models.Sql/bin/Debug/Models.AbstractDefinition.dll
+/Users/Esteban/Desktop/MyAirport.Pim/Models.Sql/bin/Debug/Entities.pdb
+/Users/Esteban/Desktop/MyAirport.Pim/Models.Sql/bin/Debug/Models.AbstractDefinition.pdb
+/Users/Esteban/Desktop/MyAirport.Pim/Models.Sql/obj/Debug/Models.Sql.csprojAssemblyReference.cache
+/Users/Esteban/Desktop/MyAirport.Pim/Models.Sql/obj/Debug/Models.Sql.csproj.CoreCompileInputs.cache
+/Users/Esteban/Desktop/MyAirport.Pim/Models.Sql/obj/Debug/Models.Sql.csproj.CopyComplete
+/Users/Esteban/Desktop/MyAirport.Pim/Models.Sql/obj/Debug/Models.Sql.dll
+/Users/Esteban/Desktop/MyAirport.Pim/Models.Sql/obj/Debug/Models.Sql.pdb

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{1441401D-E8D9-4978-A895-54FBD1ED3302}|Default">
+  <MonoDevelop.Ide.ItemProperties.Client.FormIhm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models.Factory/Factory.cs">
+    <Files>
+      <File FileName="Models.Factory/Factory.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyAirport.Pim" expanded="True">
+            <Node name="Models" expanded="True">
+              <Node name="Models.Factory" expanded="True">
+                <Node name="Factory.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Entities" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
